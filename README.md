@@ -5,7 +5,9 @@
 
 Otros proyectos:
 
-_Jupyter Notebook en Kaggle para generar un modelo que identifique Prendas de Ropa_ | DeepLearning, Convolutional Neural Network, 
+* [Página web LinkMed](https://linkmed.herokuapp.com) - Proyecto Ingeniería de Software | LinkMed 
+
+_Jupyter Notebook en Kaggle para generar un modelo que identifique Prendas de Ropa_ | DeepLearning, Convolutional Neural Network 
 * [Proyecto en Kaggle](https://www.kaggle.com/code/josantnessi/proyecto-1-gabriela-banezca-y-josant-nessi/notebook) - Proyecto Fashion MNIST | Computación emergente 
 
 
