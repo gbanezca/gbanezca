@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gbanezca, and I'm a systems engineering student at Universidada Metropolitana, Caracas Venezuela
+- 👀 I’m interested in continuing to learn new technologies and programming languages
+- 🌱 I’m currently learning Unity for my thesis
+- 📫 How to reach me ... you can contact me at my email gbanezca.dev
